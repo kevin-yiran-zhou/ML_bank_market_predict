@@ -1,4 +1,4 @@
-# Final project: CS-UY 4563 Machine Learning 
+# Final project: CS-UY 4563 Intro to Machine Learning 
 
 In this project, we focused on using machine learning models to predict whether the
 client will subscribe to a term deposit product in the bank. The client dataset was taken from
